@@ -178,7 +178,7 @@ The APIs validate all inputs and return clear error messages with HTTP 400 statu
 #### Test 0: Docker Test
 ![Docker Test](./assets/iris_docker.png)  
 
-#### Test 1: Single Prediction with Dictionary Input
+#### Test 1: Single Prediction with List Input
 
 **Input:**
 
